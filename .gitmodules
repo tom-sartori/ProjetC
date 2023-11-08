@@ -1,0 +1,6 @@
+[submodule "ProjetC-client"]
+	path = ProjetC-client
+	url = git@github.com:tom-sartori/ProjetC-client.git
+[submodule "ProjetC-server"]
+	path = ProjetC-server
+	url = git@github.com:tom-sartori/ProjetC-server.git
